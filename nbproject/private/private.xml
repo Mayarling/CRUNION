@@ -3,7 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion2/src/com/crunion/CRUnion.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/dominio/Equivalencias_Nuevas.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/dominio/Transaccion.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/logica/Conversion.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/Aplicacion.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/110840629.dat</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/dominio/Cliente.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/gui/PantallaBorrarCliente.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/dominio/Equivalencia.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/gui/CRUnion.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/gui/PantallaEditarCliente.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/gui/AgregarEquivalencia.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/logica/ServicioCliente.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/gui/PantallaCliente.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/logica/Conversion_Nueva.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/logica/Archivo.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/logica/ServicioTransaccion.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/src/com/crunion/gui/ActualizarEquivalencia.java</file>
+            <file>file:/Z:/Documentos/UNED/programacionIntermedia00824/tareasEntregadas/Tarea1/CRUnion/clientes.dat</file>
         </group>
     </open-files>
 </project-private>
